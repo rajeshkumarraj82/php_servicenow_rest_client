@@ -1,2 +1,2 @@
-# php_servicenow_rest_client
-CONSUMING SERVICENOW REST API USING PHP
+CONSUMING SERVICENOW REST API USING PHP. Please follow the instructions in the blog post,
+
